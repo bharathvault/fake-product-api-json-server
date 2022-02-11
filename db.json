@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "cce9b68a-3a04-4479-8cf3-2a80656bcc6d",
+      "name": "Kakashi",
+      "email": "kakashi@gmail.com"
+    },
+    {
+      "id": "eab1c725-54a1-4c50-ba9c-fb81fef284fe",
+      "name": "Hashirama",
+      "email": "hashirama@gmail.com"
+    }
+  ]
+}
