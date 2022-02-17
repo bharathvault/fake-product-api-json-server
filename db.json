@@ -1,5 +1,47 @@
 {
   "contacts": [
+    {
+    "id": "b756d933-1f7a-4031-bb53-b00d373bc19e",
+    "name": "Tommy",
+    "email": "tommy@gmail.com",
+    "gender": "Male"
+  },
+  {
+    "id": "01aad3ef-7043-472e-a649-56d26271e29a",
+    "name": "Nezuko",
+    "email": "nezuko@gmail.com",
+    "gender": "Female"
+  },
+  {
+    "id": "2833e0b7-a9d7-419b-b4b7-11d74e91b409",
+    "name": "Mikasa Ackerman",
+    "email": "mikasa@gmail.com",
+    "gender": "Female"
+  },
+  {
+    "id": "8ec4b068-2641-4caf-814e-2be720767702",
+    "name": "Eren Jaegar",
+    "email": "eren@gmail.com",
+    "gender": "Male"
+  },
+  {
+    "id": "db211c7c-f59e-4a82-aa9c-42987013a3fb",
+    "name": "Naruto",
+    "email": "naruto@gmail.com",
+    "gender": "Male"
+  },
+  {
+    "id": "10b54cbb-e1e8-49f2-abf3-5df12a457ea2",
+    "name": "Hinata",
+    "email": "hinata@gmail.com",
+    "gender": "Female"
+  },
+  {
+    "id": "2f265b54-7e35-4dae-88e2-c27a8e4f2ce2",
+    "name": "Mikey",
+    "email": "mikey@gmail.com",
+    "gender": "Male"
+  }
    
   ]
 }
